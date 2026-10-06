@@ -1,0 +1,62 @@
+
+{
+    "College": {
+        "name": "Malla Reddy Engineering College for Women",
+        "location": "Maisammaguda, Dhulapally, Secunderabad, Hyderabad, Telangana"
+    },
+
+    "Courses": [
+        "B.Tech Computer Science and Engineering (CSE)",
+        "B.Tech Electronics and Communication Engineering (ECE)",
+        "B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+        "B.Tech Computer Science and Engineering (Data Science)"
+    ],
+
+    "Eligibility": {
+        "B.Tech": "Candidates should have completed 10+2 or equivalent with the required subjects and should satisfy the applicable admission requirements."
+    },
+
+    "Admissions": {
+        "process": "Admission is conducted through the applicable Telangana engineering admission process.",
+        "documents": [
+            "10th Class Certificate",
+            "Intermediate / 12th Class Certificate",
+            "Transfer Certificate",
+            "Aadhaar Card",
+            "Passport Size Photos",
+            "Entrance Exam Rank Card"
+        ]
+    },
+
+    "Fees": {
+        "B.Tech": "Fee details vary according to the admission category. Please contact the college for the current fee structure."
+    },
+
+    "Hostel": {
+        "available": true,
+        "details": "Girls hostel facility is available on campus."
+    },
+
+    "Transport": {
+        "available": true,
+        "details": "College bus transportation facility is available."
+    },
+
+    "Library": {
+        "available": true,
+        "details": "The college provides library and digital learning facilities."
+    },
+
+    "Contact": {
+        "phone": "+91 7207231199 / +91 7207031994",
+        "admissions": "+91 9346118803",
+        "email": "adminmrecw@gmail.com",
+        "website": "https://www.mallareddyecw.com/"
+    },
+
+    "Timings": {
+        "college": "9:15 AM to 5:00 PM",
+        "office": "9:15 AM to 5:00 PM",
+        "library": "As per college schedule"
+    }
+}
